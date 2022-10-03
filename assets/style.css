@@ -33,4 +33,8 @@ p {
     margin: 40px auto;
     border: 5px solid #546ddd;
     box-shadow: 5px 10px #832c90;
+    background-color: #f0ba5d;
   }
+  body {
+    background: black;
+}
